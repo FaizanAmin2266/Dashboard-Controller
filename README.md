@@ -13,3 +13,6 @@ Pin 13 - MS_Can-<br>
 <br>
 ## PCB Schematic 1st Revision
 ![Schematic](./Images/schematic-rev1.png)
+
+## PCB Layout 1st Revision
+![Schematic](./Images/layout-rev1.png)
